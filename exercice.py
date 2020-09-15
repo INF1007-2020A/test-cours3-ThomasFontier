@@ -4,7 +4,6 @@ def capitaliser_pays(nom):
     # TODO completer la fonction
     return nom
 
-
 if __name__ == '__main__':
     pays = [
         'AfghanIstan',
